@@ -1,10 +1,34 @@
 [
     {
-        "id": 1,
-        "name": "hn-.]n-. kpss_À-",
-        "party": "IUML",
-        "thumbnail": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/public/Thumbnail/IMG-20251121-WA0043-removebg-preview%20(1)-modified%20(1).png",
-        "logo": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/sign/Logo/Indian%20Union%20Muslim%20League%20(IUML).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85ODU1MTkxYS04OTVhLTRmMTMtYWYyMC1iODZiNTM5ZGJlMTciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMb2dvL0luZGlhbiBVbmlvbiBNdXNsaW0gTGVhZ3VlIChJVU1MKS5wbmciLCJpYXQiOjE3NjQwNDU0MzUsImV4cCI6MTc5NTU4MTQzNX0.uY6UhMz35UkZsIxRm-IPeSIiVPqNY3emI68tIRrAdgA",
-        "detail": "]-c-¸-\\-§m-Sn- ap-\\\\n-kn-¸m-en-än- Un-hn-j-³- 19"
+      "id": 1,
+      "name": "hn-.]n-. kpss_À-",
+      "party": "IUML",
+      "thumbnail": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/public/Thumbnail/IMG-20251121-WA0043-removebg-preview%20(1)-modified%20(1).png",
+      "logo": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/sign/Logo/Indian%20Union%20Muslim%20League%20(IUML).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85ODU1MTkxYS04OTVhLTRmMTMtYWYyMC1iODZiNTM5ZGJlMTciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMb2dvL0luZGlhbiBVbmlvbiBNdXNsaW0gTGVhZ3VlIChJVU1MKS5wbmciLCJpYXQiOjE3NjQwNDU0MzUsImV4cCI6MTc5NTU4MTQzNX0.uY6UhMz35UkZsIxRm-IPeSIiVPqNY3emI68tIRrAdgA",
+      "detail": "]-c-¸--§m-Sn- ap--kn-¸m-en-än- Un-hn-j-³- 19"
+    },
+    {
+      "id": 2,
+      "name": "i-co-^v h-S-¡-bn-Â",
+      "party": "LDF",
+      "thumbnail": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/public/Thumbnail/IMG-20251121-WA0041-fotor-2025112113334_1.png",
+      "logo": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/sign/Logo/Indian%20Union%20Muslim%20League%20(IUML).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85ODU1MTkxYS04OTVhLTRmMTMtYWYyMC1iODZiNTM5ZGJlMTciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMb2dvL0luZGlhbiBVbmlvbiBNdXNsaW0gTGVhZ3VlIChJVU1MKS5wbmciLCJpYXQiOjE3NjQwNDU0MzUsImV4cCI6MTc5NTU4MTQzNX0.uY6UhMz35UkZsIxRm-IPeSIiVPqNY3emI68tIRrAdgA",
+      "detail": "-sX¶-e- ]-©m-b-¯v hm-À-Uv 4"
+    },
+    {
+      "id": 3,
+      "name": "iym-a- hn-.F-kv",
+      "party": "LDF",
+      "thumbnail": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/public/Thumbnail/01-modified.png",
+      "logo": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/sign/Logo/Communist%20Party%20of%20India%20(CPI).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85ODU1MTkxYS04OTVhLTRmMTMtYWYyMC1iODZiNTM5ZGJlMTciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMb2dvL0NvbW11bmlzdCBQYXJ0eSBvZiBJbmRpYSAoQ1BJKS5wbmciLCJpYXQiOjE3NjQwNDM4NjYsImV4cCI6MTc5NTU3OTg2Nn0.vw8wKfcohyzfaMJU1PWKWvpU_2JMIWe-h9CUPxPMSks",
+      "detail": "-tIi-h-Zm-k]p-cw- ]-©m-b-¯v hm-À-Uv"
+    },
+    {
+      "id": 4,
+      "name": "-sI. F-kv. i-_-co-\\m-Y-³-",
+      "party": "UDF",
+      "thumbnail": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/public/Thumbnail/Sabarinath.png",
+      "logo": "https://ifaysemreezscerlorwj.supabase.co/storage/v1/object/sign/Logo/Indian%20National%20Congress%20(INC).png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85ODU1MTkxYS04OTVhLTRmMTMtYWYyMC1iODZiNTM5ZGJlMTciLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJMb2dvL0luZGlhbiBOYXRpb25hbCBDb25ncmVzcyAoSU5DKS5wbmciLCJpYXQiOjE3NjQwNDY4MjUsImV4cCI6MTc5NTU4MjgyNX0.jpGPkUw-fEz7IjLJ5TIKOCMA9Up1NMwatykNFXMzZnY",
+      "detail": "Xn-cp-h-\\-´-]p-cw- -tImÀ-¸tdj-³- I-h-Sn-bm-À- hm-À-Uv"
     }
-]
+  ]
